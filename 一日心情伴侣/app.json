@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/open/open",
+    "pages/wifi_station/index/index",
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/help/help"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "一日心情伴侣",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": false,
+  "sitemapLocation": "sitemap.json"
+}

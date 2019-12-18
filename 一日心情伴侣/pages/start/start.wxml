@@ -1,0 +1,22 @@
+<!-- start.wxml -->
+<view class="intro"><text>\n这一天过得怎么样\n跟我说说吧~</text></view>
+<button class="btn btn-get" bindtap="validate">拍照告诉我你的心情</button>
+<view class="chose">选择你的心情</view>
+<button  size="mini" plain="true" class="buttons" bindtap="b1">
+<text class='iconfont icon-kaixinbiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b2">
+<text class='iconfont icon-xinshangbiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b3">
+<text class='iconfont icon-foxibiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b4">
+<text class='iconfont icon-shiwangbiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b5">
+<text class='iconfont icon-shangxinbiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b6">
+<text class='iconfont icon-shengqibiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b7">
+<text class='iconfont icon-tanshuibiaoqing'></text></button>
+<button  size="mini" plain="true" class="buttons" bindtap="b8">
+<text class='iconfont icon-haipabiaoqing'></text></button>
+
+<view class="intro">新的一天也要元气满满鸭！</view>
